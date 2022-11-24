@@ -5,11 +5,7 @@ function Navbar() {
 		<div className="container">
 			<nav className="navbar bg-dark navbar-expand-lg d-flex justify-content-between navbar-light ">
 				<div>
-					<a
-						className="navbar-brand text-white"
-						href="https://www.realmadrid.com/">
-						Real Madrid
-					</a>
+                    <a href="https://www.wizardingworld.com/"/> <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/800px-Harry_Potter_wordmark.svg.png" alt="" />
 				</div>
 				<div>
 					<button

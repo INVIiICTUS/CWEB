@@ -3,6 +3,11 @@ img {
     height: 480px;
 }
 
+.logo {
+    width: 100%;
+    height: 50px;
+}
+
 /* 
 
     You can write your own styles here...
