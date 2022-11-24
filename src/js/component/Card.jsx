@@ -16,7 +16,7 @@ function Card() {
                             En su undécimo cumpleaños se entera de que es un mago y la trama de los libros se centra principalmente en los años en los que el huérfano Potter concurre al Colegio Hogwarts de Magia y Hechicería para practicar bajo la guía del director Albus Dumbledore y demás profesores. Allí, Harry también descubre que ya es famoso en todo el mundo mágico y que su destino está atado al de Lord Voldemort, el mago tenebroso mundialmente temido y asesino de su madre y su padre.
 							</p>
 							<a
-								href="https://www.youtube.com/watch?v=p5MdXMvddps"
+								href="https://www.youtube.com/watch?v=r8Flq-plLBU"
 								className="btn btn-primary">
 								Find Out More!
 							</a>
@@ -36,7 +36,7 @@ function Card() {
                             Voldemort es el enemigo principal de Harry Potter...    quien según una profecía, tiene el poder de vencerlo....    La comunidad mágica teme tanto a Voldemort que prefiere referirse a él como «Quien-Tú-Sabes», «El-Que-No-Debe-Ser-Nombrado», o el «Innombrable» ... Aunque en la primera guerra mágica era diferente (los mortífagos se tocaban la marca tenebrosa) los mortífagos podían saber al instante la ubicación de quien pronunciara el nombre «Voldemort» he ir a por ellos...
 							</p>
 							<a
-								href="https://www.youtube.com/watch?v=RpjH5DB0Wsc"
+								href="https://www.youtube.com/watch?v=FgDAY4u50-0"
 								className="btn btn-primary">
 								Find Out More!
 							</a>
@@ -46,24 +46,17 @@ function Card() {
 				<div class="col">
 					<div class="card">
 						<img
-							src="https://static.foxdeportes.com/2021/11/carlo-ancelotti-mira-hacia-su-derecha-real-madrid-rts-v2-545x907.jpg"
+							src="https://marketpvp.es/wp-content/uploads/2018/06/Horrocruxes.jpg"
 							class="card-img-top"
 							alt="..."
 						/>
 						<div class="card-body">
-							<h5 class="card-title">Carlo Ancelotti</h5>
+							<h5 class="card-title">Horrocruxes</h5>
 							<p class="card-text">
-								After the final in Paris, Carleto proclaimed
-								himself champion of the Champions League,
-								achieving his fourth orejona and thus becoming
-								the top coach to have the most European titles
-								with an amazing number of four titles. Two with
-								AC Milan and another two with Real Madrid. Key
-								piece in the leadership of the team and the
-								transmission of its peculiar serenity
+                            Un horrocrux es un objeto muy poderoso en el que un mago o bruja ha ocultado un fragmento de su alma con el propósito de alcanzar la inmortalidad. La creación de un único horrocrux permite adquirir la capacidad de resucitarse a sí mismo si su cuerpo es destruido, sin embargo la creación de horrocruxes múltiples permite ser inmortal. La creación de varios horrocruxes es "costosa" para el creador, tanto por la disminución de su humanidad e incluso por la desfiguración física que conlleva.
 							</p>
 							<a
-								href="https://www.youtube.com/watch?v=TAsu3g4e7Qo"
+								href="https://www.youtube.com/watch?v=xOZz9-jhCZ8"
 								className="btn btn-primary">
 								Find Out More!
 							</a>
@@ -73,24 +66,17 @@ function Card() {
 				<div class="col">
 					<div class="card">
 						<img
-							src="https://www.realmadrid.com/img/vertical_380px/marcelo_380x501_20210826062808.jpg"
+							src="http://pm1.narvii.com/6511/e2f1e6b718c827462397e2a021010dacd37e8f38_00.jpg"
 							class="card-img-top"
 							alt="..."
 						/>
 						<div class="card-body">
-							<h5 class="card-title">Marcelo Vieira</h5>
+							<h5 class="card-title">Albus Dumbledore</h5>
 							<p class="card-text">
-								Marcelo, after sixteen seasons and more than
-								twenty titles behind him, achieved his fifth
-								Champions League together with the core of the
-								team such as Kroos, Modric, Casemiro, Isco,
-								Benzema.. etc. All of these match Cristiano's
-								record. This season he says goodbye to the team
-								that has given him so much and that they have
-								achieved so much together
+                            Era un mago de sangre mestiza, hijo de Percival y Kendra Dumbledore, y hermano mayor de Aberforth y Ariana Dumbledore.  Su padre murió en Azkaban cuando Albus era joven, mientras que su madre y su hermana murieron más tarde en diversos accidentes. Albus Dumbledore era considerado como el mago más poderoso de su época. Él era famoso por derrotar a Gellert Grindelwald, descubrir doce usos de la sangre de dragón, y su trabajo en alquimia con Nicolas Flamel.
 							</p>
 							<a
-								href="https://www.youtube.com/watch?v=CUZnbQn_Eqo"
+								href="https://www.youtube.com/watch?v=067kQ-LSWS0"
 								className="btn btn-primary">
 								Find Out More!
 							</a>
