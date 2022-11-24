@@ -6,21 +6,14 @@ function Card() {
 				<div class="col">
 					<div class="card">
 						<img
-							src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg/1200px-Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg"
+							src="https://www.elindependiente.com/wp-content/uploads/2019/07/IMG_3083.jpg"
 							class="card-img-top"
 							alt="..."
 						/>
 						<div class="card-body">
-							<h5 class="card-title">Karim Benzema</h5>
+							<h5 class="card-title">Harry Potter</h5>
 							<p class="card-text">
-								Karim Benzema has been the top scorer in the
-								competition with fifteen goals, managing to
-								touch Cristiano Ronaldo's record and deserving
-								the Ballon d'Or this season. Being one of the
-								team heroes with 3 hack triks in the epic
-								comebacks of the season. Without a doubt, the
-								French striker is one of the best nine in the
-								world. Always eternal Karim Benzema
+                            En su undécimo cumpleaños se entera de que es un mago y la trama de los libros se centra principalmente en los años en los que el huérfano Potter concurre al Colegio Hogwarts de Magia y Hechicería para practicar bajo la guía del director Albus Dumbledore y demás profesores. Allí, Harry también descubre que ya es famoso en todo el mundo mágico y que su destino está atado al de Lord Voldemort, el mago tenebroso mundialmente temido y asesino de su madre y su padre.
 							</p>
 							<a
 								href="https://www.youtube.com/watch?v=p5MdXMvddps"
@@ -33,21 +26,14 @@ function Card() {
 				<div class="col">
 					<div class="card">
 						<img
-							src="https://www.realmadrid.com/img/vertical_380px/courtois_380x501_20210826062816.jpg"
+							src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0bD7_T7CX9yBAt6CbFnVUlyIRPKtca6vrQ&usqp=CAU"
 							class="card-img-top"
 							alt="..."
 						/>
 						<div class="card-body">
-							<h5 class="card-title">Thibout Courtois</h5>
+							<h5 class="card-title">Lord Voldemort</h5>
 							<p class="card-text">
-								Thibaut Courtois has been another of the team's
-								heroes, making masterful saves against powerful
-								teams, which have allowed the team to move
-								forward in the competition, achieving the record
-								in the final on May 28 with nine saves in a
-								Champions League final. Fulfilling his childhood
-								dream of raising a Cahmpios League with the best
-								team in history
+                            Voldemort es el enemigo principal de Harry Potter...    quien según una profecía, tiene el poder de vencerlo....    La comunidad mágica teme tanto a Voldemort que prefiere referirse a él como «Quien-Tú-Sabes», «El-Que-No-Debe-Ser-Nombrado», o el «Innombrable» ... Aunque en la primera guerra mágica era diferente (los mortífagos se tocaban la marca tenebrosa) los mortífagos podían saber al instante la ubicación de quien pronunciara el nombre «Voldemort» he ir a por ellos...
 							</p>
 							<a
 								href="https://www.youtube.com/watch?v=RpjH5DB0Wsc"

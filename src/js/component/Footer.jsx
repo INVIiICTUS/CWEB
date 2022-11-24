@@ -7,7 +7,7 @@ function Footer() {
 				/* style="height: 150px" */
 				style={{ height: "150px" }}>
 				<p className="text-white fw-bold">
-					Copyright © Your Website 2022
+					Copyright © INVIiICTUS November 2022
 				</p>
 			</footer>
 		</div>
