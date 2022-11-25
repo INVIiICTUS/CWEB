@@ -16,7 +16,7 @@ function Jumbotron() {
 					className="btn btn-primary btn-lg"
 					href="https://www.youtube.com/watch?v=T8D8vEcZrqM"
 					role="button">
-					Click to Action
+					Click to Action...
 				</a>
 			</p>
 		</div>

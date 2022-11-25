@@ -13,16 +13,19 @@ function Navbar() {
 									<span className="sr-only">(current)</span>
 								</a>
 							</li>
+							<li>
+							<a className="nav-link text-white" href="#">
+									{""} 
+									<span className="sr-only">(current)</span>
+									<iframe width="30" height="25" src="https://www.youtube.com/embed/T8D8vEcZrqM?start=3">PLAY</iframe>
+									</a>
+							</li>
 							<li className="nav-item">
 								<a className="nav-link text-white" href="https://es.wikipedia.org/wiki/Harry_Potter">
 									ABOUT
 								</a>
 							</li>
-							<li className="nav-item">
-								<a className="nav-link text-white" href="https://www.linkedin.com/in/j-enrique-ar%C3%A9s-lorenzo-6a636a148/">
-									CONTACT
-								</a>
-							</li>
+							
 						</ul>
 					</div>
 				

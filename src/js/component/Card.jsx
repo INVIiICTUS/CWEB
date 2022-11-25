@@ -66,14 +66,14 @@ function Card() {
 				<div class="col">
 					<div class="card">
 						<img
-							src="https://marketpvp.es/wp-content/uploads/2018/06/Horrocruxes.jpg"
+							src="https://i.pinimg.com/236x/14/b5/1b/14b51b4fe241c42087ecbece90dab68f.jpg"
 							class="card-img-top"
 							alt="..."
 						/>
 						<div class="card-body">
-							<h5 class="card-title">Horrocruxes</h5>
+							<h5 class="card-title">Ron y Hermione</h5>
 							<p class="card-text">
-                            Un horrocrux es un objeto muy poderoso en el que un mago o bruja ha ocultado un fragmento de su alma con el propósito de alcanzar la inmortalidad. La creación de un único horrocrux permite adquirir la capacidad de resucitarse a sí mismo si su cuerpo es destruido, sin embargo la creación de horrocruxes múltiples permite ser inmortal. La creación de varios horrocruxes es "costosa" para el creador, tanto por la disminución de su humanidad e incluso por la desfiguración física que conlleva.
+                            Son los amigos de Harry, Hermion es una sangre sucia (hija de padre mago y madre muggle) la mas brillante de la escuela. Ron es un Wesly, parte de la familia mas pobre del mundo mago. Junto a Harry hacen un trío inseparable el cual llega a hacer tambalear el mundo magico llevando acabo hazañas unicas y conmobedoras. Ron y Hermione juntos desctruyen un Horrocrux y acaban teniendo una maravillosa y envidiable historia de amor entre los dos.
 							</p>
 							<a
 								href="https://www.youtube.com/watch?v=xOZz9-jhCZ8"
