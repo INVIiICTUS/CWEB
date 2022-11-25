@@ -18,7 +18,7 @@ function Card() {
 							<a
 								href="https://www.youtube.com/watch?v=r8Flq-plLBU"
 								className="btn btn-primary">
-								Find Out More!
+								More!
 							</a>
 						</div>
 					</div>
@@ -38,27 +38,7 @@ function Card() {
 							<a
 								href="https://www.youtube.com/watch?v=FgDAY4u50-0"
 								className="btn btn-primary">
-								Find Out More!
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col">
-					<div class="card">
-						<img
-							src="https://marketpvp.es/wp-content/uploads/2018/06/Horrocruxes.jpg"
-							class="card-img-top"
-							alt="..."
-						/>
-						<div class="card-body">
-							<h5 class="card-title">Horrocruxes</h5>
-							<p class="card-text">
-                            Un horrocrux es un objeto muy poderoso en el que un mago o bruja ha ocultado un fragmento de su alma con el propósito de alcanzar la inmortalidad. La creación de un único horrocrux permite adquirir la capacidad de resucitarse a sí mismo si su cuerpo es destruido, sin embargo la creación de horrocruxes múltiples permite ser inmortal. La creación de varios horrocruxes es "costosa" para el creador, tanto por la disminución de su humanidad e incluso por la desfiguración física que conlleva.
-							</p>
-							<a
-								href="https://www.youtube.com/watch?v=xOZz9-jhCZ8"
-								className="btn btn-primary">
-								Find Out More!
+								More!
 							</a>
 						</div>
 					</div>
@@ -78,11 +58,32 @@ function Card() {
 							<a
 								href="https://www.youtube.com/watch?v=067kQ-LSWS0"
 								className="btn btn-primary">
-								Find Out More!
+								More!
 							</a>
 						</div>
 					</div>
 				</div>
+				<div class="col">
+					<div class="card">
+						<img
+							src="https://marketpvp.es/wp-content/uploads/2018/06/Horrocruxes.jpg"
+							class="card-img-top"
+							alt="..."
+						/>
+						<div class="card-body">
+							<h5 class="card-title">Horrocruxes</h5>
+							<p class="card-text">
+                            Un horrocrux es un objeto muy poderoso en el que un mago o bruja ha ocultado un fragmento de su alma con el propósito de alcanzar la inmortalidad. La creación de un único horrocrux permite adquirir la capacidad de resucitarse a sí mismo si su cuerpo es destruido, sin embargo la creación de horrocruxes múltiples permite ser inmortal. La creación de varios horrocruxes es "costosa" para el creador, tanto por la disminución de su humanidad e incluso por la desfiguración física que conlleva.
+							</p>
+							<a
+								href="https://www.youtube.com/watch?v=xOZz9-jhCZ8"
+								className="btn btn-primary">
+								More!
+							</a>
+						</div>
+					</div>
+				</div>
+				
 			</div>
 		</div>
 	);
