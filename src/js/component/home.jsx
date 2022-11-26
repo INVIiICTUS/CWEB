@@ -3,12 +3,14 @@ import Navbar from "./Navbar.jsx";
 import Jumbotron from "./Jumbotron.jsx";
 import Card from "./Card.jsx";
 import Footer from "./Footer.jsx";
+import Audio from "./Audio.jsx"
 //include the Navbar
 
 //create your first component
 const Home = () => {
 	return (
 		<div>
+			<Audio />
 			<Navbar />
 			<Jumbotron />
 			<Card />
