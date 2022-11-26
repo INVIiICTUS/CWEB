@@ -85,6 +85,15 @@ function Card() {
 				</div>
 				
 			</div>
+			<hr className="my-4" />
+			<p className="lead d-grid gap-2 col-6 mx-auto">
+				<a
+					className="btn btn-primary btn-lg"
+					href="https://repelis24.se/pelicula/harry-potter-y-la-piedra-filosofal-online-gratis-onz70r/"
+					role="button">
+					Click to Action...
+				</a>
+			</p>
 		</div>
 	);
 }
