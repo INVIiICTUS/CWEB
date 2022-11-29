@@ -20,7 +20,7 @@ class App extends Component {
    
    
           return  <div key={ item.id }>
-                    <audio>
+                    <audio autoplay>
                       <source src={ item.audio } type={ item.formato }/>
                     </audio>
                   </div>
