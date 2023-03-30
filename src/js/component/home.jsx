@@ -10,7 +10,6 @@ import Audio from "./useAudio.jsx"
 const Home = () => {
 	return (
 		<div>
-			<Audio />
 			<Navbar />
 			<Jumbotron />
 			<Card />
