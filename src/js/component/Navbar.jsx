@@ -1,28 +1,27 @@
 import React from "react";
 
-function Navbar() {
-	return (
-		<div className="container ">
-			<nav className="navbar  navbar-expand-lg d-flex justify-content-between navbar-light p-50 ">
-					<div className="collapse navbar-collapse" id="navbarNav">
-						<ul className="navbar-nav mx-auto">
-							<li className="nav-item active">
-								<a className="nav-link text-white" href="">
-									HOME{" "}
-									<span className="sr-only">(current)</span>
-								</a>
-							</li>
-						
-							<li className="nav-item">
-								<a className="nav-link text-white" href="">
-									ABOUT
-								</a>
-							</li>
-						</ul>
-					</div>
-			</nav>
-		</div>
-	);
+function NavbarCustom() {
+  return (
+    <div className="container">
+      <nav className="navbar  navbar-expand-lg d-flex justify-content-between navbar-light p-50 ">
+        <div className="collapse navbar-collapse" id="navbarNav">
+          <ul className="navbar-nav mx-auto">
+            <li className="nav-item active">
+              <a className="nav-link text-black" href="">
+                CONTACTA <span className="sr-only">(current)</span>
+              </a>
+            </li>
+
+            <li className="nav-item">
+              <a className="nav-link text-black" href="">
+                PROYECTOS
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  );
 }
 
-export default Navbar;
+export default NavbarCustom;
