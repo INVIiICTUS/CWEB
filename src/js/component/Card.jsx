@@ -4,9 +4,9 @@ import Card from "react-bootstrap/Card";
 
 function Galery() {
   return (
-    <>
-      <div className="container d-flex">
-        <div className="p-3 m-3">
+    <div className="container">
+      <div className="row">
+        <div className="col-xl-3 col-md-6 col-12 my-1 mb-5">
           <Card style={{ width: "18rem" }}>
             <Card.Img variant="top" src="" />
             <Card.Body>
@@ -19,7 +19,7 @@ function Galery() {
             </Card.Body>
           </Card>
         </div>
-		<div className="p-3 m-3">
+        <div className="col-xl-3 col-md-6 col-12 my-1 mb-5">
           <Card style={{ width: "18rem" }}>
             <Card.Img variant="top" src="" />
             <Card.Body>
@@ -32,7 +32,7 @@ function Galery() {
             </Card.Body>
           </Card>
         </div>
-		<div className="p-3 m-3">
+        <div className="col-xl-3 col-md-6 col-12 my-1 mb-5">
           <Card style={{ width: "18rem" }}>
             <Card.Img variant="top" src="" />
             <Card.Body>
@@ -45,7 +45,7 @@ function Galery() {
             </Card.Body>
           </Card>
         </div>
-		<div className="p-3 m-3">
+        <div className="col-xl-3 col-md-6 col-12 my-1 mb-5">
           <Card style={{ width: "18rem" }}>
             <Card.Img variant="top" src="" />
             <Card.Body>
@@ -57,9 +57,9 @@ function Galery() {
               <Button variant="primary">Go somewhere</Button>
             </Card.Body>
           </Card>
-        </div>c
+        </div>
       </div>
-    </>
+    </div>
   );
 }
 
