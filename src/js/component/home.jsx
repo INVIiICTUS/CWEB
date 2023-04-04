@@ -10,8 +10,9 @@ const Home = () => {
 	return (
 		<div>
 			<NavbarCustom />
-			<Jumbotron />
 			<Card />
+			<Card />
+			<Jumbotron />
 			<Footer />
 		</div>
 

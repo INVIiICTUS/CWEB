@@ -8,8 +8,8 @@ function Footer() {
         /* style="height: 150px" */
         style={{ height: "50px" }}
       >
-        <p className="text-white fw-bold">
-          Copyright © INVIiICTUS November 2022
+        <p className="text-white fw-bold m-3">
+          Copyright © Enrique Arés April 2023
         </p>
       </footer>
     </div>
