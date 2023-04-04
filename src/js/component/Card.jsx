@@ -1,7 +1,8 @@
 import React from "react";
 
 function Galery() {
-  return (
+  return ( 
+    <div className="container d-center">
     <section className="center-aligns">
       <img src="https://i.blogs.es/ef0d01/harry-potter/840_560.jpeg" alt="" />
 
@@ -15,13 +16,14 @@ function Galery() {
         alt=""
       />
 
-      <img src="https://vendup.fun/assets/product-8a6c631a.png" alt="" />
+      <img src="https://vendup.fun/assets/vendup-6ff606c6.png" alt="" />
 
       <img
         src="https://www.casinozaragoza.es/wp-content/uploads/2018/09/poker.jpg"
         alt=""
       />
     </section>
+    </div>
   );
 }
 
