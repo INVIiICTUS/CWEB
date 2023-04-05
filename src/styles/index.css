@@ -3,13 +3,13 @@ body {
 
 }
 
-section {
+.secction {
     display: flex;
-    width: 1000px;
+    width: 5000px;
     height: 750px;
 }
 
-section img {
+.secction img {
     width: 0px;
     flex-grow: 1;
     object-fit: cover;
@@ -17,7 +17,7 @@ section img {
     transition: 0.5s ease;
 }
 
-section img:hover {
+.secction img:hover {
     cursor: crosshair;
     width: 600px;
     opacity: 1;
